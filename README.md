@@ -32,7 +32,7 @@ Run the following command:
 ```bash
 poetry run python textbase/textbase_cli.py test main.py
 ```
-## Pregchat-
+## Pregchat
 pregchat example statement: This example simulates a conversation with the Gynecology-based chat application named Pregchat. It prompts the user for their questions and concerns during their pregnancy journey and responds in a loving and caring tone, providing informative answers to the user's inquiries. 
 
 ## Prompt for GPT-3.5 Turbo
